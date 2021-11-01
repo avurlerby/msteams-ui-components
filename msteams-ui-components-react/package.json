@@ -52,6 +52,6 @@
   "dependencies": {
     "mousetrap": "^1.6.2",
     "msteams-ui-styles-core": "^0.8.0",
-    "msteams-ui-icons-react": "^0.4.1"
+    "msteams-ui-icons-react": "^0.4.2"
   }
 }
