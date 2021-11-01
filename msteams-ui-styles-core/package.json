@@ -41,6 +41,6 @@
     "typestyle": "^2.0.1"
   },
   "dependencies": {
-    "msteams-ui-icons-core": "^0.4.1"
+    "msteams-ui-icons-core": "^0.4.2"
   }
 }
